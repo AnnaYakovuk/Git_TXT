@@ -1,0 +1,14 @@
+Skills: Linux,
+Git Bash, 
+GitHub, 
+HTTP/HTTPS, 
+Web testing, 
+Manual testing, 
+API, 
+Mobile testing, 
+Proxy, 
+JMeter, 
+SQL, 
+VPN
+ctrl+C
+
