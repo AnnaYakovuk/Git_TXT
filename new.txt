@@ -1,5 +1,4 @@
 "Full name": "Yakovuk Anna",
 "Age": 34,
 "Number of pets": 5,
-"Future desired salary": 5000$[D[D[D[D[D[D[[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[A[3~[3~[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[D[D[D[D[D[D[D[D[D[[D[D[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[D[[D[D[D[D[C[[D[D[D[D[D[D[D[D[[B[C[C[C[C[C[C[C[C[C[C
-[D[D[A[C[C[C[C[C[C[C[C[C[[B[C[C[C[C[C[C[C[C[C[C[[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D
+"Future desired salary": 5000$
